@@ -1,6 +1,3 @@
-# Vue files
-*.vue
-
 # Production build
 /dist/
 
