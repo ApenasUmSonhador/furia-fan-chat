@@ -1,17 +1,15 @@
-.DS_Store
-node_modules
-/dist
+# Vue files
+*.vue
 
+# Production build
+/dist/
 
-# local env files
-.env.local
+# Local environment files
+.env
 .env.*.local
 
-# Log files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
+# Node modules
+node_modules/
 
 # Editor directories and files
 .idea
@@ -21,3 +19,30 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Testing
+/coverage
+/junit.xml
+
+# Temp files
+*.tmp
+*.temp
