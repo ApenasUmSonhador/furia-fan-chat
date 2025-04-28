@@ -1,17 +1,22 @@
 # Homepage:
-- Fundo: Torcida da FURIA
 
-- Favicon: furia-fan-chat/src/assets/favicon.png
+- Fundo: Torcida com opacidade 0.5 - 0.7
+- Logo na direita
+- Disposiçao UI/UX como anotado no arquivo "Ideias para o Bot FURIA"
+- 100% responsivo
+- Menu que redireciona para site oficial
 
-# ChatPage:
-- Bot no WPP Business: FURIA
+# Ideias para o Bot FURIA
 
--
+# Bot FURIA - Ideias de Funcionalidades:
+
+- Bot no Telegram
+- Descrição do Bot: "Seu assistente pessoal para tudo sobre a FURIA!"
 
 ```plaintext
-[Bot FURIA] 
+[Bot FURIA]
     ↓
-[Início] 
+[Início]
     ↓
 [Mensagem de boas-vindas]
     ↓
